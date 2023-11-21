@@ -1,18 +1,24 @@
-### Olá!👋
 
-<!--
-**kaioOS/kaioOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kaio Sousa
+Hello! 👋
+Welcome to my GitHub profile! I'm Kaio Sousa, a software development enthusiast with experience in both front-end and back-end technologies. I'm always seeking exciting challenges and creative solutions to complex problems. Here's a summary of my skills:
 
-Here are some ideas to get you started:
+Front-End 🌐
+JavaScript
+HTML
+CSS
+Back-End 💻
+MySQL
+Java
+Python
+C
+C++
+PHP
+Tools 🛠️
+Git
+GitHub
+Excel
+Frameworks 🚀
+Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Meu nome é Kaio Sousa, sou estudante de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF).
-# Possuo familiaridade com as linguagens C, C++, Python e Java.
+Email: kosousa20111@gmail.com
